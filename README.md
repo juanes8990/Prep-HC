@@ -12,7 +12,7 @@ En esta instancia, buscamos asegurarnos que todos nuestros aplicantes  tengan un
 >El Challenge debe resolverse de manera individual. Si te copias o recibes ayuda de compañeros, además de estar incumpliendo con las normas de Henry (lo que te dejaría afuera de la carrera), estarás perjudicándote a ti mismo, porque el primer día de clase estarías extremadamente perdido.
 
 ¿Se puede volver a rendir el HC?    
--   Si, el HC se puede rendir tantas veces como ustedes quieran! No hay límite de intentos.
+-   Si, tienes tres oportunidades para aprobar el HC.
 
 ¿Qué hago una vez entregado el HC?
 - ¡A esperar! Los van a estar contactando en un plazo no mayor a una semana para confirmarles, tanto si quedaron, como si no lo hicieron.
@@ -36,7 +36,10 @@ Tu tarea es completar el código en `checkpoint.py` de tal forma que pasen la ma
 
 ### 3. RESOLVER EL CHALLENGE DE MATEMÁTICA
 
-Tu tarea será leer el enunciado en el archivo "HC_Math.md" y ejecutar el programa 'test_math.py' para cargar allí tus respuestas, las mismas serán guardadas en el archivo test_math.csv. Por favor no modifiques ninguno de los dos.
+Ingresa para resolverlo a: <br> 
+
+### [Formulario]
+
 
 ### 4. ENTREGAR TU CHECKPOINT
 
